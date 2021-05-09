@@ -1,0 +1,12 @@
+utils/Capilalize.java
+ utils.Capilalize
+dao/AlunoDao.java
+ dao.AlunoDao
+config/ConnectionJDBC.java
+ config.ConnectionJDBC
+Entity/Aluno.java
+ Entity.Aluno
+config/ConnectionFactory.java
+ config.ConnectionFactory
+MainQueries.java
+ MainQueries
